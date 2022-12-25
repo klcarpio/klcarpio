@@ -4,6 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine](https://github.com/klcarpio/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
+  - [How to Install and use Active Directory](https://github.com/klcarpio/How-to-setup-Active-Directory-on-an-Azure-VM)
 
 <h2>Connect with me:</h2>
 
