@@ -8,7 +8,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and How to Install](https://github.com/klcarpio/osTicket-Prerequisites-and-How-to-Install)
-  - [osTicket: Post Install Setup](https://github.com/klcarpio/osTicket-Post-Installation-Setup)
+  - [osTicket: Post Install Setup](https://github.com/klcarpio/osTicket-Post-Install-Setup)
 
 <h2>Connect with me:</h2>
 
