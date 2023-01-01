@@ -1,6 +1,11 @@
-<h1>Hi, I'm Luigi, an <a href="https://www.linkedin.com/in/karl-luigi-carpio">IT Professional</a></h1>
+<p align="center">
+<img src="https://i.imgur.com/rHOfGaw.png" height="80%" width="80%" alt="Banner"/>
+</p>
 
-<h2>Information Technology Projects:</h2>
+<h1 align="center">Hello World! 👋🏽<br>
+I'm Luigi, an aspiring <a href="https://www.linkedin.com/in/karl-luigi-carpio">Cloud Security Professional</a> ☁️ 🔐</h1>
+
+<h2>Information Technology Projects 💻:</h2>
 
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine](https://github.com/klcarpio/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
