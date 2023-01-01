@@ -10,6 +10,7 @@ I'm Luigi, an aspiring <a href="https://www.linkedin.com/in/karl-luigi-carpio">C
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine](https://github.com/klcarpio/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
   - [Network Protocols and Traffic](https://github.com/klcarpio/Network-Protocols-and-Traffic)
+  - [Virtual Private Networks](https://github.com/klcarpio/Virtual-Private-Networks)
   - [How to Install and Use Active Directory](https://github.com/klcarpio/How-to-setup-Active-Directory-on-an-Azure-VM)
   - [Understanding DNS](https://github.com/klcarpio/Understanding-DNS)
   - [Network File Permissions/Shares](https://github.com/klcarpio/Network-File-Permission-Shares)
