@@ -5,6 +5,7 @@
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine](https://github.com/klcarpio/Create-an-Azure-Account-and-Deploy-a-Virtual-Machine)
   - [How to Install and use Active Directory](https://github.com/klcarpio/How-to-setup-Active-Directory-on-an-Azure-VM)
+  - [Understanding DNS](https://github.com/klcarpio/Understanding-DNS)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and How to Install](https://github.com/klcarpio/osTicket-Prerequisites-and-How-to-Install)
