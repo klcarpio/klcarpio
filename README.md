@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hello World! 👋🏽<br>
-I'm Luigi, an aspiring <a href="https://www.linkedin.com/in/karl-luigi-carpio">Cloud Security Professional</a> ☁️ 🔐</h1>
+I'm Luigi, an aspiring <a href="https://www.linkedin.com/in/karl-luigi-carpio">Cloud Professional</a> ☁️ 🔐</h1>
 
 <h2>Information Technology Projects 💻:</h2>
 
