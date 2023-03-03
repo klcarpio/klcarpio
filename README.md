@@ -20,6 +20,9 @@ I'm Luigi, an aspiring <a href="https://www.linkedin.com/in/karl-luigi-carpio">C
   - [osTicket: Post Install Setup](https://github.com/klcarpio/osTicket-Post-Install-Setup)
   - [osTicket: How to Create Tickets and Resolve Them](https://github.com/klcarpio/osTicket-How-to-Create-Tickets-and-Resolve-Them)
 
+## Python 🐍:
+- [The Complete Python Bootcamp From Zero to Hero in Python](https://github.com/klcarpio/The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python)
+
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
